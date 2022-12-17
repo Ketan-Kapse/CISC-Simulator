@@ -10,3 +10,7 @@ The following operations are supported by the emulator:
 - FP/Vectors
 - Traps
 - and some enhanced memory and cache operations.
+
+
+
+![image](img/screengrab_cisc.png)

@@ -1,3 +1,12 @@
-# CSCI-6461-CISC-Simulator
-This is Team 2's repository for CSCI 6461 Computer Architecture project. 
-We are building a CISC computer simulator.
+#CISC Simulator
+
+## Description
+This project is a fairly complex classical CISC computer emulator. Components like the Program Counter, Memory Address Register, Buffer register, Instruction Register, etc. have been emulated along with a simple GUI.
+
+## Operations
+The following operations are supported by the emulator:
+- L&S
+- CHKs
+- FP/Vectors
+- Traps
+- and some enhanced memory and cache operations.
